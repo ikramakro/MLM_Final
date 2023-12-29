@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-12-29: chore(core): fix CORS headers
 - 2023-10-23: docs(utils): add validation middleware
 - 2023-08-15: Update logging output
 - 2023-01-23: feat(core): add validation middleware
