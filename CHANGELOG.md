@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-04-21: docs(middleware): update package lock
 - 2024-07-22: Fix race condition
 - 2023-12-29: chore(core): fix CORS headers
 - 2023-10-23: docs(utils): add validation middleware
