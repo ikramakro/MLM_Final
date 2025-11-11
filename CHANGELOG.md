@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-11-11: fix(auth): correct response status codes
 - 2025-04-21: docs(middleware): update package lock
 - 2024-07-22: Fix race condition
 - 2023-12-29: chore(core): fix CORS headers
